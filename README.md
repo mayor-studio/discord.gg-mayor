@@ -61,31 +61,15 @@ I'm **3mran**, the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a 
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 GitHub Achievements
 
-### 🔥 **Mayor Studio Platform**
-> The central hub for all Mayor Studio services — hosting, deployment, user management, and more.
+<p align="center">
+  <a href="https://github.com/mayor-studio">
+    <img src="https://github-profile-trophy.vercel.app/?username=mayor-studio&theme=radical&row=1&column=7" alt="GitHub Achievements"/>
+  </a>
+</p>
 
-- **Stack**: TypeScript, React, Node.js, PostgreSQL, Docker
-- **[Dashboard](https://panel.mayorstudio.host)** | **[Website](https://mayorstudio.xyz)**
-
-### 🎮 **Lua Game Framework**
-> Modular, lightweight game logic system built in Lua for Roblox, FiveM, and custom engines.
-
-- **Stack**: Lua, Love2D, custom C++ bindings
-- Used in multiple public/private game servers
-
-### 🤖 **Automation & Bot Suite**
-> AI-assisted bots for social media, data scraping, and workflow automation.
-
-- **Stack**: Python, Puppeteer, FastAPI, Redis, Celery
-- Powers content generation for **[YouTube](https://www.youtube.com/@mayor.studio)**
-
-### 🌐 **Developer Portfolio Templates**
-> Open-source, responsive portfolio templates for developers (like this one!).
-
-- **Stack**: HTML, CSS, JavaScript, GitHub Pages
-- **[GitHub Org](https://github.com/mayor-studio)**
+> 💡 *These trophies reflect my contributions, consistency, and open-source impact on GitHub.*
 
 ---
 
