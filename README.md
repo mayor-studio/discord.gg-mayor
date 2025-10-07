@@ -1,37 +1,93 @@
-# 3mran - Full Stack Developer
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3mran - Full Stack Developer</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
 
-[![Banner](https://i.ibb.co/S4Rrx0MH/Picsart-25-08-29-01-29-24-403-jpg.jpg)](https://i.ibb.co/S4Rrx0MH/Picsart-25-08-29-01-29-24-403-jpg.jpg)
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
 
-## About Me
+        .banner {
+            width: 100%; /* Adjust as needed */
+            max-width: 800px; /* Example max width */
+            display: block;
+            margin: 0 auto;
+        }
 
-I'm 3mran, a passionate and versatile full-stack developer with experience in crafting robust and scalable web applications. I thrive on solving complex problems and delivering high-quality solutions that meet user needs.
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
 
-## Skills
+        #skills ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
 
-Here's a glimpse of my technical skills:
+        #skills li {
+            margin: 10px;
+            text-align: center;
+        }
 
-*   **JavaScript:**  Experienced in building interactive and dynamic web applications using modern JavaScript frameworks and libraries.
-*   **Node.js:** Proficient in developing server-side applications and APIs using Node.js and Express.
-*   **Lua:** Knowledgeable in Lua scripting for game development and embedded systems.
-*   **TypeScript:** Skilled in using TypeScript to enhance code maintainability and scalability in large projects.
-*   **HTML & CSS:** Adept at creating semantic and visually appealing user interfaces with HTML5 and CSS3.
-*   **Python:** Experienced in developing backend systems, scripting, and data analysis tools using Python.
+        #skills li img {
+            width: 50px; /* Adjust icon size */
+            height: 50px;
+            display: block;
+            margin: 0 auto 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://i.ibb.co/S4Rrx0MH/Picsart-25-08-29-01-29-24-403-jpg" alt="Banner" class="banner">
+        <h1>3mran - Full Stack Developer</h1>
+    </header>
 
-## Projects
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I'm 3mran, a passionate and versatile full-stack developer with experience in crafting robust and scalable web applications. I thrive on solving complex problems and delivering high-quality solutions that meet user needs.</p>
+    </section>
 
-Here are some of my notable projects:
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li><img src="[JavaScript Icon URL]" alt="JavaScript"> JavaScript</li>
+            <li><img src="[Node.js Icon URL]" alt="Node.js"> Node.js</li>
+            <li><img src="[Lua Icon URL]" alt="Lua"> Lua</li>
+            <li><img src="[TypeScript Icon URL]" alt="TypeScript"> TypeScript</li>
+            <li><img src="[HTML Icon URL]" alt="HTML"> HTML</li>
+            <li><img src="[CSS Icon URL]" alt="CSS"> CSS</li>
+            <li><img src="[Python Icon URL]" alt="Python"> Python</li>
+        </ul>
+    </section>
 
-*   **[Project Name 1](Link to Project 1):**  A brief description of the project, highlighting the technologies used and the problem it solves.  _(e.g., "A real-time chat application built with Node.js, Socket.IO, and React.")_
-*   **[Project Name 2](Link to Project 2):** A brief description of the project, highlighting the technologies used and the problem it solves. _(e.g., "A REST API for managing user accounts, developed with Python and Flask.")_
-*   **[Project Name 3](Link to Project 3):** A brief description of the project, highlighting the technologies used and the problem it solves. _(e.g., "A dynamic website built with HTML, CSS, and JavaScript.")_
-
-## Connect with Me
-
-*   [GitHub](Your GitHub Profile URL)
-*   [LinkedIn](Your LinkedIn Profile URL)
-*   [Twitter](Your Twitter Profile URL)
-*   [Email](Your Email Address)
-
-## Let's Build Something Amazing Together!
-
-I'm always open to new opportunities and collaborations. Feel free to reach out and let's discuss how we can work together to create innovative solutions.
+    <footer>
+        <p>&copy; 2025 3mran</p>
+    </footer>
+</body>
+</html>
