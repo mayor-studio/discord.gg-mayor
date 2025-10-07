@@ -1,10 +1,8 @@
-<!-- BANNER IMAGE - Full width -->
-<p align="center">
-  <img src="https://i.ibb.co/S4Rrx0MH/Picsart-25-08-29-01-29-24-403-jpg.jpg" alt="3mran - Mayor Studio Banner" width="100%"/>
-</p>
+<!-- FULL-WIDTH BANNER IMAGE -->
+<img src="https://i.ibb.co/S4Rrx0MH/Picsart-25-08-29-01-29-24-403-jpg.jpg" alt="Mayor Studio Banner" width="100%"/>
 
 <h1 align="center">Hi, I'm 3mran 👋</h1>
-<h3 align="center">Full Stack Developer • Creator of <a href="https://mayorstudio.xyz">Mayor Studio</a></h3>
+<h3 align="center">Full Stack Developer • Founder of <a href="https://mayorstudio.xyz">Mayor Studio</a></h3>
 
 <p align="center">
   <a href="https://github.com/mayor-studio">
@@ -22,13 +20,18 @@
 
 ## 🌟 About Me
 
-I'm **3mran**, the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative tech lab building innovative web applications, automation tools, game scripts, and developer-focused platforms.
+I’m **3mran**, a **full-stack developer** and the creator behind **[Mayor Studio](https://mayorstudio.xyz)** — a dynamic tech initiative focused on building **scalable web applications**, **custom automation systems**, **game scripting solutions**, and **developer tooling**.
 
-- 🔭 Building **real-time web apps**, **custom game backends**, and **developer tooling**
-- 🌱 Deeply experienced in **JavaScript/TypeScript**, **Node.js**, **Python**, and **Lua**
-- 💡 Passionate about **clean architecture**, **performance**, and **user experience**
-- 📫 Reach me via **Discord** or through my **[control panel](https://panel.mayorstudio.host)**
-- ⚡ Fun fact: I automate everything — even my coffee machine! ☕
+With years of hands-on experience across multiple stacks, I specialize in turning complex ideas into elegant, high-performance software. My work spans from backend microservices in **Node.js** and **Python** to interactive frontends, and even low-level **Lua** scripting for game engines like **Roblox**, **FiveM**, and **GTA:MP**.
+
+### 🔧 What I Do
+- **Web Development**: Full-stack apps using modern JavaScript/TypeScript ecosystems  
+- **Automation & Bots**: AI-powered scrapers, social media bots, and workflow optimizers  
+- **Game Scripting**: Custom Lua modules for multiplayer game servers  
+- **DevOps & Hosting**: Self-managed infrastructure, Dockerized deployments, and control panels  
+- **Open Source**: Building tools that empower other developers  
+
+I believe in **clean code**, **performance-first design**, and **user-centric development** — whether I'm building a public API or a private game server.
 
 ---
 
@@ -36,56 +39,50 @@ I'm **3mran**, the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a 
 
 ### 🌐 Frontend & Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind,bootstrap" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,django" alt="Backend Technologies"/>
 </p>
 
-### 🎮 Scripting & Game Logic
+### 🎮 Game & Embedded Scripting
 <p align="left">
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua"/>
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases & Storage
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase" alt="Databases"/>
 </p>
 
-### 🛠️ DevOps & Tools
+### 🛠️ Infrastructure & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,github,linux,vscode,nginx" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,github,linux,nginx,vercel,cloudflare" alt="DevOps Tools"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🏢 Mayor Studio Ecosystem
 
-### 🔥 **Mayor Studio Platform**
-> The central hub for all Mayor Studio services — hosting, deployment, user management, and more.
+Everything I build lives under the **[Mayor Studio](https://mayorstudio.xyz)** brand — a hub for innovation, automation, and creative tech solutions.
 
-- **Stack**: TypeScript, React, Node.js, PostgreSQL, Docker
-- **[Dashboard](https://panel.mayorstudio.host)** | **[Website](https://mayorstudio.xyz)**
+### 🔗 Key Platforms
+- **🌐 [Official Website](https://mayorstudio.xyz)**  
+  Discover services, documentation, and latest updates.
 
-### 🎮 **Lua Game Framework**
-> Modular, lightweight game logic system built in Lua for Roblox, FiveM, and custom engines.
+- **🎛️ [Control Panel](https://panel.mayorstudio.host)**  
+  Manage your projects, deployments, and services in one place.
 
-- **Stack**: Lua, Love2D, custom C++ bindings
-- Used in multiple public/private game servers
+- **🎥 [YouTube Channel](https://www.youtube.com/@mayor.studio)**  
+  Tutorials, dev logs, automation demos, and behind-the-scenes content.
 
-### 🤖 **Automation & Bot Suite**
-> AI-assisted bots for social media, data scraping, and workflow automation.
+- **💬 [Discord Community](https://discord.gg/mayor)**  
+  Join 500+ developers for support, collaboration, and early access to tools.
 
-- **Stack**: Python, Puppeteer, FastAPI, Redis, Celery
-- Powers content generation for **[YouTube](https://www.youtube.com/@mayor.studio)**
-
-### 🌐 **Developer Portfolio Templates**
-> Open-source, responsive portfolio templates for developers (like this one!).
-
-- **Stack**: HTML, CSS, JavaScript, GitHub Pages
-- **[GitHub Org](https://github.com/mayor-studio)**
+- **💻 [GitHub Organization](https://github.com/mayor-studio)**  
+  Open-source projects, templates, and reusable modules.
 
 ---
 
@@ -98,32 +95,18 @@ I'm **3mran**, the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a 
 
 ---
 
-## 📣 Connect With Me
+## 🤝 Let’s Build Together
 
-<p align="center">
-  <a href="https://mayorstudio.xyz">
-    <img src="https://img.shields.io/badge/🌐_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://panel.mayorstudio.host">
-    <img src="https://img.shields.io/badge/🎛️_Control_Panel-4A90E2?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Control Panel"/>
-  </a>
-  <a href="https://www.youtube.com/@mayor.studio">
-    <img src="https://img.shields.io/badge/🎥_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://discord.gg/mayor">
-    <img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://github.com/mayor-studio">
-    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+I’m always open to:
+- **Freelance projects** (web apps, bots, game scripts)
+- **Collaborations** with other developers or studios
+- **Open-source contributions** and tool sharing
+- **Mentorship** and technical consulting
+
+👉 **Best way to reach me**: Join the **[Discord server](https://discord.gg/mayor)** or explore the **[Control Panel](https://panel.mayorstudio.host)** to get started.
 
 ---
 
-> 💬 **Want to collaborate?**  
-> Join the **[Discord server](https://discord.gg/mayor)** or explore projects on **[GitHub](https://github.com/mayor-studio)**.  
-> All Mayor Studio tools are built with ❤️ and open to community feedback!
-
 <p align="center">
-  <i>© 2025 Mayor Studio • Built by 3mran</i>
+  <i>Made with ❤️ by 3mran • © 2025 Mayor Studio</i>
 </p>
