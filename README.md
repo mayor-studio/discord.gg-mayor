@@ -20,70 +20,76 @@
 
 ---
 
-## 🌟 About 3mran (Mayor Studio)
+## 🌟 About Me
 
-I am **3mran**, a dedicated Full Stack Developer specializing in creating high-performance, scalable digital solutions. As the driving force behind **[Mayor Studio](https://mayorstudio.xyz)**, my work spans from architecting robust backends to crafting seamless, intuitive user experiences.
+I'm **3mran**, the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative tech lab building innovative web applications, automation tools, game scripts, and developer-focused platforms.
 
-I leverage a versatile technology stack, focusing heavily on **JavaScript/TypeScript** ecosystems for modern web development, **Python** for data processing and AI integration, and **Lua** for specialized scripting and game logic.
-
-| Focus Area | Core Expertise | Description |
-| :--- | :--- | :--- |
-| 🖥️ **Web Development** | TypeScript, Node.js, React | Building scalable APIs, microservices, and dynamic SPAs for high-traffic environments. |
-| 🐍 **Backend & Data** | Python, FastAPI, Flask | Developing data pipelines, automation scripts, and machine learning integration layers. |
-| 🎮 **Scripting & Logic** | Lua | Designing efficient, low-latency scripting solutions for game servers and embedded systems. |
-| ☁️ **DevOps** | Docker, NGINX, Linux | Managing deployment cycles, optimizing containerized applications, and ensuring system reliability. |
-
-- 💬 I'm currently focused on improving real-time synchronization and system performance across all Mayor Studio services.
-- 📫 All primary services are managed via the **[Mayor Studio Panel](https://panel.mayorstudio.host)**.
+- 🔭 Building **real-time web apps**, **custom game backends**, and **developer tooling**
+- 🌱 Deeply experienced in **JavaScript/TypeScript**, **Node.js**, **Python**, and **Lua**
+- 💡 Passionate about **clean architecture**, **performance**, and **user experience**
+- 📫 Reach me via **Discord** or through my **[control panel](https://panel.mayorstudio.host)**
+- ⚡ Fun fact: I automate everything — even my coffee machine! ☕
 
 ---
 
-## 💻 Technical Mastery
+## 💻 Tech Stack
 
-My expertise spans the entire development stack, ensuring seamless integration from database to client interface.
-
-### 🌐 Frontend & Client-Side Development
-I build engaging and highly responsive user interfaces using modern standards and frameworks.
-
+### 🌐 Frontend & Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind" alt="Frontend"/>
 </p>
-**Skills include:** Semantic HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+), State Management (Redux/Zustand), and utility frameworks like Tailwind CSS.
 
-### ⚙️ Backend & Runtime Environments
-I specialize in high-speed, reliable backend services, primarily utilizing the power of Node.js and Python.
-
+### ⚙️ Backend & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,nestjs" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask" alt="Backend"/>
 </p>
-**Skills include:** RESTful API design, Microservices architecture, Asynchronous programming, and utilizing frameworks like Express.js (Node) and FastAPI (Python) for rapid deployment.
 
-### 🗄️ Databases & Data Storage
-Managing and optimizing data layers for performance and durability.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" alt="Databases"/>
-</p>
-**Skills include:** SQL/NoSQL querying, Database optimization, Caching strategies (Redis), and Data modeling for both relational and document stores.
-
-### 🎮 Scripting & Game Logic (Lua)
-Expert knowledge in Lua for performance-critical scripting environments, especially those related to game modification and backend automation logic.
-
+### 🎮 Scripting & Game Logic
 <p align="left">
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua"/>
 </p>
 
-### 🛠️ DevOps, Tools, and Infrastructure
-Ensuring code moves smoothly from development to production using robust tooling.
-
+### 🗄️ Databases & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,github,linux,vscode,nginx,jest" alt="DevOps Tools"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase" alt="Databases"/>
 </p>
-**Skills include:** Git workflow management, Containerization (Docker), CI/CD pipelines (GitHub Actions), and Linux server administration.
+
+### 🛠️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,github,linux,vscode,nginx" alt="Tools"/>
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
+
+### 🔥 **Mayor Studio Platform**
+> The central hub for all Mayor Studio services — hosting, deployment, user management, and more.
+
+- **Stack**: TypeScript, React, Node.js, PostgreSQL, Docker
+- **[Dashboard](https://panel.mayorstudio.host)** | **[Website](https://mayorstudio.xyz)**
+
+### 🎮 **Lua Game Framework**
+> Modular, lightweight game logic system built in Lua for Roblox, FiveM, and custom engines.
+
+- **Stack**: Lua, Love2D, custom C++ bindings
+- Used in multiple public/private game servers
+
+### 🤖 **Automation & Bot Suite**
+> AI-assisted bots for social media, data scraping, and workflow automation.
+
+- **Stack**: Python, Puppeteer, FastAPI, Redis, Celery
+- Powers content generation for **[YouTube](https://www.youtube.com/@mayor.studio)**
+
+### 🌐 **Developer Portfolio Templates**
+> Open-source, responsive portfolio templates for developers (like this one!).
+
+- **Stack**: HTML, CSS, JavaScript, GitHub Pages
+- **[GitHub Org](https://github.com/mayor-studio)**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%"/>
@@ -114,9 +120,10 @@ Ensuring code moves smoothly from development to production using robust tooling
 
 ---
 
-> 🤝 **Collaboration:**  
-> I am always interested in discussing new technical challenges and collaborative projects. Join the **[Discord server](https://discord.gg/mayor)** to connect directly!
+> 💬 **Want to collaborate?**  
+> Join the **[Discord server](https://discord.gg/mayor)** or explore projects on **[GitHub](https://github.com/mayor-studio)**.  
+> All Mayor Studio tools are built with ❤️ and open to community feedback!
 
 <p align="center">
-  <i>© 2025 Mayor Studio • Crafted by 3mran</i>
+  <i>© 2025 Mayor Studio • Built by 3mran</i>
 </p>
