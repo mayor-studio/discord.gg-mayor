@@ -1,25 +1,24 @@
-# 3mran - Full Stack Developer
+<!-- README.md -->
+<h1>3mran - Full Stack Developer</h1>
 
-[![Banner Image](https://i.ibb.co/S4Rrx0MH/Picsart-25-08-29-01-29-24-403-jpg)]()
+<img src="https://i.ibb.co/S4Rrx0MH/Picsart-25-08-29-01-29-24-403-jpg" alt="Banner Image" width="800">
 
-## About Me
+<h2>About Me</h2>
+<p>I'm 3mran, a passionate and versatile full-stack developer with experience in crafting robust and scalable web applications. I thrive on solving complex problems and delivering high-quality solutions that meet user needs.</p>
 
-I'm 3mran, a passionate and versatile full-stack developer with experience in crafting robust and scalable web applications. I thrive on solving complex problems and delivering high-quality solutions that meet user needs.
+<h2>Skills</h2>
+<ul>
+    <li>JavaScript</li>
+    <li>Node.js</li>
+    <li>Lua</li>
+    <li>TypeScript</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Python</li>
+</ul>
 
-## Skills
-
-- **Languages:**
-  - JavaScript
-  - Node.js
-  - Lua
-  - TypeScript
-  - HTML
-  - CSS
-  - Python
-
-## Connect
-
-[GitHub](https://github.com/mayor-studio/)
-[Discord](https://discord.gg/mayor)
-[Website](https://mayorstudio.xyz/)
-[Panel](https://panel.mayorstudio.host/)
+<h2>Connect</h2>
+<a href="https://github.com/mayor-studio/">GitHub</a><br>
+<a href="https://discord.gg/mayor">Discord</a><br>
+<a href="https://mayorstudio.xyz/">Website</a><br>
+<a href="https://panel.mayorstudio.host/">Panel</a>
