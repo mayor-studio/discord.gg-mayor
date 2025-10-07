@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/github/followers/mayor-studio?label=Follow&style=social" alt="GitHub followers"/>
   </a>
   <a href="https://discord.gg/mayor">
-    <img src="https://img.shields.io/badge/Join_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@mayor.studio">
-    <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 
@@ -87,29 +87,23 @@ I'm **3mran**, the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a 
 ## 🌐 Connect & Collaborate
 
 <p align="center">
-  <a href="https://mayorstudio.xyz">
-    <img src="https://img.shields.io/badge/🌐_Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  <a href="https://mayorstudio.xyz" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website" width="50" height="50"/>
   </a>
-  <a href="https://panel.mayorstudio.host">
-    <img src="https://img.shields.io/badge/⚡_Control_Panel-4A90E2?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Control Panel"/>
+  <a href="https://panel.mayorstudio.host" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/control-panel.png" alt="Control Panel" width="50" height="50"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/@mayor.studio">
-    <img src="https://img.shields.io/badge/📺_YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <a href="https://www.youtube.com/@mayor.studio" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="YouTube" width="50" height="50"/>
   </a>
-  <a href="https://discord.gg/mayor">
-    <img src="https://img.shields.io/badge/💭_Discord_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discord.gg/mayor" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" alt="Discord" width="50" height="50"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mayor-studio">
-    <img src="https://img.shields.io/badge/📂_GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/mayor-studio" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="50" height="50"/>
   </a>
-  <a href="mailto:contact@mayorstudio.xyz">
-    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:contact@mayorstudio.xyz" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="50" height="50"/>
   </a>
 </p>
 
