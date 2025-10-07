@@ -1,85 +1,162 @@
-# 👨‍💻 Developer Portfolio
+<p align="center">
+  <img src="https://i.ibb.co/S4Rrx0MH/Picsart-25-08-29-01-29-24-403-jpg.jpg" alt="3mran - Full Stack Developer" width="100%"/>
+</p>
 
-![Languages](https://img.shields.io/badge/Languages-JavaScript%20|%20TypeScript%20|%20Python%20|%20Lua%20|%20HTML%20|%20CSS-blue)
-![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green)
-![GitHub](https://img.shields.io/github/license/your-username/your-repo)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo)
+<h1 align="center">Hi 👋, I'm 3mran</h1>
+<h3 align="center">Full Stack Developer & Problem Solver</h3>
 
-Welcome to my developer portfolio! I'm a passionate full-stack developer with expertise in **JavaScript**, **TypeScript**, **Node.js**, **Python**, **Lua**, **HTML**, and **CSS**. This repository showcases my projects, skills, and technical journey.
-
-## 🌟 Featured Projects
-
-### 🔥 Full-Stack Applications
-- **[Project Name](https://github.com/your-username/project)** - A modern web application built with React, TypeScript, and Node.js
-- **[API Service](https://github.com/your-username/api)** - RESTful API with Express.js and MongoDB
-
-### 🎮 Game Development
-- **[Game Project](https://github.com/your-username/game)** - 2D game developed with Lua and Love2D framework
-
-### 🤖 Automation & Scripts
-- **[Python Tools](https://github.com/your-username/python-tools)** - Collection of Python scripts for automation and data processing
-- **[Node Utilities](https://github.com/your-username/node-utils)** - CLI tools and utilities built with Node.js
-
-## 💻 Technical Skills
-
-### Languages & Frameworks
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), TypeScript, React |
-| **Backend** | Node.js, Express.js, Python, Flask |
-| **Game Dev** | Lua, Love2D |
-| **Databases** | MongoDB, PostgreSQL, SQLite |
-| **DevOps** | Docker, GitHub Actions, Linux |
-
-### Tools & Platforms
-- **Version Control**: Git, GitHub
-- **Package Managers**: npm, yarn, pip
-- **Testing**: Jest, Mocha, Pytest
-- **IDEs**: VS Code, WebStorm, PyCharm
-
-## 🚀 Recent Projects
-
-### 1. **Real-time Chat Application**
-- **Tech Stack**: TypeScript, Node.js, Socket.IO, React
-- **Features**: Real-time messaging, user authentication, responsive design
-- **[View Project](https://github.com/your-username/chat-app)**
-
-### 2. **Lua Game Engine**
-- **Tech Stack**: Lua, Love2D
-- **Features**: Entity-component system, physics simulation, asset management
-- **[View Project](https://github.com/your-username/lua-engine)**
-
-### 3. **Python Data Pipeline**
-- **Tech Stack**: Python, Pandas, SQLAlchemy
-- **Features**: ETL processes, data validation, automated reporting
-- **[View Project](https://github.com/your-username/data-pipeline)**
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-## 📫 Get In Touch
-
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/your-profile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
-
-## 🤝 Contributing
-
-I'm always open to collaboration! Feel free to:
-- ⭐ Star this repository
-- 🐛 Report issues
-- 💡 Suggest improvements
-- 🌟 Contribute to projects
-
-## 📄 License
-
-This portfolio is licensed under the [MIT License](LICENSE).
+<p align="center">
+  <a href="https://github.com/3mran">
+    <img src="https://img.shields.io/github/followers/3mran?label=Follow&style=social" alt="GitHub followers"/>
+  </a>
+  <a href="https://linkedin.com/in/3mran">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contact.3mran@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-> "The best way to predict the future is to invent it." - Alan Kay
+## 🚀 About Me
 
-Made with ❤️ using **Markdown**, **GitHub Pages**, and lots of **coffee** ☕
+I'm **3mran**, a passionate **Full Stack Developer** with expertise in building scalable web applications, robust APIs, and engaging user interfaces. I thrive on solving complex problems and turning ideas into functional, beautiful digital experiences.
+
+- 🔭 Currently working on **real-time collaborative applications**
+- 🌱 Learning **advanced system architecture and cloud technologies**
+- 💬 Ask me about **JavaScript, Node.js, or full-stack development**
+- 📫 How to reach me: **contact.3mran@example.com**
+- ⚡ Fun fact: **I can write code in 6 different programming languages!**
+
+---
+
+## 💻 Tech Stack
+
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue" alt="Frontend Technologies"/>
+</p>
+
+### ⚙️ Backend & Server-Side
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,express,flask,fastapi" alt="Backend Technologies"/>
+</p>
+
+### 🎮 Game & Scripting Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua" alt="Lua"/>
+</p>
+
+### 🗄️ Databases & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" alt="Databases"/>
+</p>
+
+### 🛠️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,github,linux,vscode" alt="DevOps Tools"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🔥 **Real-Time Collaboration Platform**
+> A full-featured collaborative workspace with real-time document editing, video conferencing, and task management.
+
+- **Tech Stack**: TypeScript, React, Node.js, Socket.IO, MongoDB, Redis
+- **Features**: Live collaboration, user authentication, file sharing, notifications
+- **[GitHub Repository](https://github.com/3mran/collab-platform)** | **[Live Demo](https://collab.3mran.dev)**
+
+### 🎮 **2D Game Engine (Lua)**
+> A lightweight, modular game engine built with Lua and Love2D framework for rapid game prototyping.
+
+- **Tech Stack**: Lua, Love2D, Tiled Map Editor
+- **Features**: Entity-component system, physics simulation, sprite animation, input handling
+- **[GitHub Repository](https://github.com/3mran/lua-game-engine)** | **[Game Demo](https://games.3mran.dev)**
+
+### 🤖 **AI-Powered Automation Suite**
+> Collection of intelligent automation tools for web scraping, data processing, and workflow optimization.
+
+- **Tech Stack**: Python, FastAPI, BeautifulSoup, Pandas, Celery
+- **Features**: Web scraping, data validation, scheduled tasks, RESTful APIs
+- **[GitHub Repository](https://github.com/3mran/automation-suite)**
+
+### 🌐 **E-Commerce Platform**
+> Modern e-commerce solution with admin dashboard, payment integration, and inventory management.
+
+- **Tech Stack**: React, TypeScript, Node.js, Express, PostgreSQL, Stripe
+- **Features**: User authentication, product catalog, shopping cart, payment processing
+- **[GitHub Repository](https://github.com/3mran/ecommerce-platform)**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3mran&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="3mran's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mran&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mran&theme=radical" alt="GitHub Streak" width="60%"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/3mran">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/3mran_dev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/3mran">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://medium.com/@3mran">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:contact.3mran@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://3mran.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
+  </a>
+  <a href="https://github.com/3mran">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always excited to work on interesting projects and collaborate with other developers. Whether you have a project idea, need help with a technical challenge, or just want to connect:
+
+- ⭐ **Star my repositories** if you find them useful
+- 🐛 **Report issues** or suggest improvements
+- 💡 **Reach out** for potential collaborations or freelance opportunities
+- 🌟 **Follow me** to stay updated with my latest projects
+
+---
+
+## 📄 License
+
+This portfolio is open source and available under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=3mran&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<p align="center">
+  Made with ❤️ by <strong>3mran</strong> | Full Stack Developer
+</p>
