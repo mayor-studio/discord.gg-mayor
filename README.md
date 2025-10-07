@@ -83,6 +83,14 @@ I'm **3mran**, the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a 
 
 ---
 
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/3mran/count.svg" alt="Visitor Count"/>
+</p>
+
+---
+
 ## 📣 Connect With Me
 
 <p align="center">
