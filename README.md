@@ -83,14 +83,6 @@ I'm **3mran**, the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a 
 
 ---
 
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/3mran/count.svg" alt="Visitor Count"/>
-</p>
-
----
-
 ## 📣 Connect With Me
 
 <p align="center">
@@ -119,4 +111,10 @@ I'm **3mran**, the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a 
 
 <p align="center">
   <i>© 2025 Mayor Studio • Built by 3mran</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayor-studio&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views Counter"/>
 </p>
