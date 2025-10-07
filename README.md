@@ -36,12 +36,12 @@ I'm **3mran**, the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a 
 
 ### 🌐 Frontend & Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask" alt="Backend Technologies"/>
 </p>
 
 ### 🎮 Scripting & Game Logic
@@ -49,35 +49,36 @@ I'm **3mran**, the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a 
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua"/>
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases & Storage
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase" alt="Databases"/>
 </p>
 
 ### 🛠️ DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,github,linux,vscode,nginx" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,github,linux,vscode,nginx" alt="DevOps Tools"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏅 GitHub Achievements
 
+### 🌟 GitHub Profile Trophy Awards
 <p align="center">
-  <a href="https://github.com/mayor-studio">
-    <img src="https://github-profile-trophy.vercel.app/?username=mayor-studio&theme=radical&row=1&column=7" alt="GitHub Achievements"/>
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayor-studio&theme=onedark&column=7" alt="GitHub Trophy Awards"/></a>
 </p>
 
-> 💡 *These trophies reflect my contributions, consistency, and open-source impact on GitHub.*
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&theme=radical&langs_count=8" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayor-studio&theme=radical" width="48%"/>
+</p>
+
+### 📜 GitHub Readme Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
