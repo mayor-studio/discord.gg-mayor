@@ -19,12 +19,20 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#-about">About</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-featured-projects">Featured Projects</a> •
+  <a href="#-stats">Stats</a> •
+  <a href="#-connect">Connect</a>
+</p>
+
 ---
 
 ## 🌟 About
-I’m the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative tech lab focused on real‑time web systems, automation, and developer tooling.
+I’m the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative tech lab focused on real‑time systems, automation, and developer tooling.
 
-- 🔭 Building: collaborative real‑time dashboards, custom game backends, Lua tooling
+- 🔭 Building: collaborative dashboards, custom game backends, Lua tooling
 - 🧠 Expert in: JavaScript/TypeScript, Node.js, Python, Lua, React/Vue
 - 🧩 Principles: clean architecture, performance, and UX‑first thinking
 - 📫 Contact: **[Discord](https://discord.gg/mayor)** • **[Control Panel](https://panel.mayorstudio.host)** • **contact@mayorstudio.xyz**
@@ -61,6 +69,21 @@ I’m the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative 
 
 ---
 
+## 🔥 Featured Projects
+<p align="center">
+  <a href="https://github.com/mayor-studio/PROJECT_ONE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayor-studio&repo=PROJECT_ONE&theme=radical&hide_border=true" alt="Featured: PROJECT_ONE" />
+  </a>
+  <a href="https://github.com/mayor-studio/PROJECT_TWO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayor-studio&repo=PROJECT_TWO&theme=radical&hide_border=true" alt="Featured: PROJECT_TWO" />
+  </a>
+  <a href="https://github.com/mayor-studio/PROJECT_THREE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayor-studio&repo=PROJECT_THREE&theme=radical&hide_border=true" alt="Featured: PROJECT_THREE" />
+  </a>
+</p>
+
+---
+
 ## 🚀 What I’m Working On
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=F70000&center=true&vCenter=true&width=820&height=60&lines=Building+scalable+web+applications;Creating+automation+tools;Developing+game+scripts;Contributing+to+open+source;Learning+new+technologies" alt="Current focus areas" />
@@ -68,16 +91,15 @@ I’m the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative 
 
 ---
 
-## 📊 Stats (dark/light aware)
-
+## 📊 Stats
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&line_height=26&title_color=ff6b6b&icon_color=ff6b6b"
+      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&line_height=26&title_color=ff6b6b&icon_color=ff6b6b&cache_seconds=7200"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default&line_height=26"
+      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default&line_height=26&cache_seconds=7200"
       media="(prefers-color-scheme: light)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&hide_border=true" alt="GitHub stats" width="49%" />
@@ -98,11 +120,11 @@ I’m the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative 
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&langs_count=8&hide_border=true&theme=radical&title_color=ff6b6b&text_color=ffffff"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&langs_count=8&hide_border=true&theme=radical&title_color=ff6b6b&text_color=ffffff&cache_seconds=7200"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&langs_count=8&hide_border=true&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&langs_count=8&hide_border=true&theme=default&cache_seconds=7200"
       media="(prefers-color-scheme: light)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact" alt="Top languages" />
