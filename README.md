@@ -126,7 +126,6 @@ I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative te
 </p>
 
 ### 💻 Programming Languages Distribution
-> ⚠️ **Note:** These statistics are based on public repository file sizes and may not accurately represent my actual skill set or daily work. Much of my production code resides in private repositories. For a comprehensive view of my expertise, please refer to the **Technical Arsenal** section above.
 
 <p align="center">
   <picture>
