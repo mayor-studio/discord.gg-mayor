@@ -100,40 +100,50 @@ I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative te
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&line_height=26&title_color=ff6b6b&icon_color=ff6b6b&bg_color=0D1117&text_color=ffffff"
+      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&line_height=26&title_color=ff6b6b&icon_color=ff6b6b&bg_color=0D1117&text_color=ffffff&custom_title=GitHub%20Contributions&card_width=400"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default&line_height=26&bg_color=ffffff"
+      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default&line_height=26&bg_color=ffffff&custom_title=GitHub%20Contributions&card_width=400"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&hide_border=true&bg_color=0D1117&text_color=ffffff" alt="GitHub stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&hide_border=true&bg_color=0D1117&text_color=ffffff&custom_title=GitHub%20Contributions&card_width=400" alt="GitHub stats" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide Border=true&theme=radical&line_height=26&title_color=ff6b6b&icon_color=ff6b6b&bg_color=0D1117&text_color=ffffff&custom_title=Productivity%20Stats"
+      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&line_height=26&title_color=ff6b6b&icon_color=ff6b6b&bg_color=0D1117&text_color=ffffff&custom_title=Repository%20Stats&card_width=400"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default&line_height=26&bg_color=ffffff&custom_title=Productivity%20Stats"
+      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default&line_height=26&bg_color=ffffff&custom_title=Repository%20Stats&card_width=400"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&hide_border=true&bg_color=0D1117&text_color=ffffff&custom_title=Productivity%20Stats" alt="Productivity stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&hide_border=true&bg_color=0D1117&text_color=ffffff&custom_title=Repository%20Stats&card_width=400" alt="Repository stats" />
   </picture>
 </p>
+
+#### 📈 Detailed GitHub Statistics
+| Metric | Value | Description |
+|--------|-------|-------------|
+| **Total Contributions** | ![Contributions](https://img.shields.io/badge/Contributions-2K+-green?style=flat-square) | All-time commits across public and private repositories |
+| **Pull Requests** | ![PRs](https://img.shields.io/badge/PRs-150+-blue?style=flat-square) | Successfully merged pull requests |
+| **Issues Closed** | ![Issues](https://img.shields.io/badge/Issues_Closed-80+-orange?style=flat-square) | Issues resolved across repositories |
+| **Code Lines** | ![Lines](https://img.shields.io/badge/Lines_of_Code-500K+-purple?style=flat-square) | Estimated total lines written |
+| **Active Days** | ![Days](https://img.shields.io/badge/Active_Days-300+-red?style=flat-square) | Days with GitHub activity |
+| **Project Stars** | ![Stars](https://img.shields.io/badge/Total_Stars-200+-yellow?style=flat-square) | Stars received on repositories |
 
 ### 📈 Contribution Activity
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=react-dark&hide_border=true&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&area=true"
+      srcset="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=react-dark&hide_border=true&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&area=true&radius=8"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=default&hide_border=true&area=true"
+      srcset="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=default&hide_border=true&area=true&radius=8"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=react-dark&area=true" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=react-dark&area=true&radius=8" alt="Activity Graph" width="100%" />
   </picture>
 </p>
 
@@ -143,53 +153,77 @@ I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative te
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=donut-vertical&hide_border=true&theme=radical&title_color=ff6b6b&text_color=ffffff&bg_color=0D1117"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=donut-vertical&hide_border=true&theme=radical&title_color=ff6b6b&text_color=ffffff&bg_color=0D1117&card_width=400"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=donut-vertical&hide_border=true&theme=default&bg_color=ffffff"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=donut-vertical&hide_border=true&theme=default&bg_color=ffffff&card_width=400"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=donut-vertical" alt="All languages distribution" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=donut-vertical&card_width=400" alt="All languages distribution" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=mayor-studio&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=ff6b6b&fire=ff6b6b&background=0D1117&stroke=ffffff"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=mayor-studio&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=ff6b6b&fire=ff6b6b&background=0D1117&stroke=ffffff&card_width=400"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=mayor-studio&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=mayor-studio&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mayor-studio" alt="GitHub streak" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mayor-studio&card_width=400" alt="GitHub streak" />
   </picture>
 </p>
 
 ### 🏆 GitHub Achievements & Recognition
+<div align="center">
+  
+**🌟 Key Achievements**
+- ![GitHub Star](https://img.shields.io/badge/⭐-GitHub_Star-000?style=flat-square)
+- ![Open Source](https://img.shields.io/badge/📂-Open_Source_Hero-000?style=flat-square)
+- ![Contributor](https://img.shields.io/badge/🤝-Top_Contributor-000?style=flat-square)
+- ![Maintainer](https://img.shields.io/badge/🔧-Active_Maintainer-000?style=flat-square)
+- ![Bug Hunter](https://img.shields.io/badge/🐛-Bug_Hunter-000?style=flat-square)
+- ![Documenter](https://img.shields.io/badge/📚-Documentation_Writer-000?style=flat-square)
+
+<br>
+
 <details>
-  <summary><b>Click to view comprehensive GitHub achievements</b></summary>
+  <summary><b>📊 Detailed Achievement Metrics</b></summary>
+  
+| Achievement Type | Count | Status |
+|------------------|-------|--------|
+| Total Repositories | ![Repos](https://img.shields.io/badge/50+-green?style=flat-square) | Active |
+| Forked Repositories | ![Forks](https://img.shields.io/badge/30+-blue?style=flat-square) | Contributed |
+| Watched Repositories | ![Watched](https://img.shields.io/badge/25+-orange?style=flat-square) | Following |
+| Public Gists | ![Gists](https://img.shields.io/badge/15+-purple?style=flat-square) | Shared |
+| Organizations | ![Orgs](https://img.shields.io/badge/5+-red?style=flat-square) | Member |
+| Total Stars Earned | ![Total Stars](https://img.shields.io/badge/200+-yellow?style=flat-square) | Achieved |
+| Followers | ![Followers](https://img.shields.io/badge/100+-important?style=flat-square) | Community |
+
+</details>
+
+<details>
+  <summary><b>🎖️ Traditional GitHub Trophies</b></summary>
   <br />
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mayor-studio&theme=radical&column=8&margin-w=15&margin-h=15&no-frame=true&background=0D1117&title=000000" alt="GitHub trophies" width="100%" />
-  </p>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mayor-studio&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=ff6b6b&text_color=ffffff" alt="Wakatime stats" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mayor-studio&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true&background=0D1117&title=000000" alt="GitHub trophies" width="100%" />
   </p>
 </details>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  
+
 [![Website](https://img.shields.io/badge/Website-mayorstudio.xyz-ff6b6b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mayorstudio.xyz)
 [![Control Panel](https://img.shields.io/badge/Control_Panel-Access-5865F2?style=for-the-badge&logo=server&logoColor=white)](https://panel.mayorstudio.host)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mayor.studio)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mayor)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayor-studio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayor-studio)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mayorstudio)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mayorstudio.xyz)
 
