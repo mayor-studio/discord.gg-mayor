@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Hi, I'm 3mran 👋</h1>
-<h3 align="center">Full‑Stack Developer • Creator of <a href="https://mayorstudio.xyz">Mayor Studio</a></h3>
-<p align="center"><em>I build high‑performance web apps, automation tools, and game scripting systems.</em></p>
+<h3 align="center">Full‑Stack Developer & Founder of <a href="https://mayorstudio.xyz">Mayor Studio</a></h3>
+<p align="center"><em>Building the future of web applications, automation tools, and game scripting systems</em></p>
 
 <p align="center">
   <a href="https://github.com/mayor-studio">
@@ -20,55 +20,103 @@
 
 ---
 
-## 🌟 About
-I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative tech lab focused on real‑time web systems, automation, and developer tooling.
+## 🌟 About Me
 
-- 🔭 Building: collaborative real‑time dashboards, custom game backends, Lua tooling
-- 🧠 Expert in: JavaScript/TypeScript, Node.js, Python, Lua, React/Vue
-- 🧩 Principles: clean architecture, performance, and UX‑first thinking
-- 📫 Contact: **[Discord](https://discord.gg/mayor)** • **[Control Panel](https://panel.mayorstudio.host)** • **contact@mayorstudio.xyz**
-- ☕ Fun fact: my coffee brews on merge to `main`.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=ff6b6b&center=true&width=600&lines=Full-Stack+Developer+%7C+Tech+Enthusiast;Open+Source+Contributor;Creator+of+Mayor+Studio;Building+Innovative+Solutions" alt="Developer bio typing animation" />
+</div>
 
----
+I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative tech lab focused on pushing the boundaries of web development, automation, and game scripting. With a passion for creating elegant solutions to complex problems, I specialize in building scalable applications that make a difference.
 
-## 💻 Tech Stack
+### 🎯 What I Do
+- 🔭 **Building**: Collaborative real-time dashboards, custom game backends, Lua tooling
+- 🚀 **Innovating**: Automation tools that streamline workflows and boost productivity
+- 🎮 **Gaming**: Custom scripts and tools for enhanced gaming experiences
+- 📚 **Sharing**: Knowledge through open-source contributions and community building
 
-### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind,bootstrap" alt="Frontend: HTML, CSS, JS, TS, React, Vue, Tailwind, Bootstrap" />
-</p>
+### 🧠 Core Competencies
+- **Languages**: JavaScript/TypeScript, Python, Lua, HTML/CSS, SQL
+- **Frameworks**: React, Vue, Express, FastAPI, Django, Flask
+- **Databases**: PostgreSQL, MongoDB, MySQL, Redis, Firebase
+- **Tools**: Docker, Git, CI/CD, Cloud Services
 
-### ⚙️ Backend & APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,django" alt="Backend: Node, Express, Python, FastAPI, Flask, Django" />
-</p>
-
-### 🎮 Game Dev & Scripting
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,unity,godot" alt="Game Dev: Lua, Unity, Godot" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase" alt="DB/Cloud: MongoDB, PostgreSQL, MySQL, Redis, Firebase, Supabase" />
-</p>
-
-### 🛠️ DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,github,linux,vscode,nginx,vercel,cloudflare" alt="DevOps: Git, Docker, GitHub, Linux, VS Code, Nginx, Vercel, Cloudflare" />
-</p>
+### 🧩 My Philosophy
+- Clean architecture and maintainable code
+- Performance optimization at every level
+- User experience as a top priority
+- Continuous learning and adaptation
 
 ---
 
-## 🚀 What I'm Working On
-<p align="center">
+## 💻 Technical Arsenal
+
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind,bootstrap,sass,nextjs,webpack" alt="Frontend technologies" />
+</p>
+
+*Specialized in building responsive, accessible, and performant web applications with modern frameworks and tools.*
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,django,nginx,graphql" alt="Backend technologies" />
+</p>
+
+*Expert in developing robust RESTful APIs, microservices, and server-side applications with focus on scalability and security.*
+
+### 🎮 Game Development & Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,unity,godot,unreal" alt="Game development technologies" />
+</p>
+
+*Creating immersive gaming experiences and powerful scripting systems for game automation and modding.*
+
+### 🗄️ Database & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,dynamodb,prisma" alt="Database technologies" />
+</p>
+
+*Designing efficient database schemas and implementing optimized data storage solutions.*
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,jenkins,terraform,vercel,cloudflare" alt="Cloud and DevOps technologies" />
+</p>
+
+*Implementing CI/CD pipelines, containerization, and cloud-native solutions for modern applications.*
+
+### 🛠️ Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,ubuntu,figma" alt="Development tools" />
+</p>
+
+*Proficient with modern development tools that enhance productivity and collaboration.*
+
+---
+
+## 🚀 Current Projects & Focus
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=F70000&center=true&vCenter=true&width=820&height=60&lines=Building+scalable+web+applications;Creating+automation+tools;Developing+game+scripts;Contributing+to+open+source;Learning+new+technologies" alt="Current focus areas" />
-</p>
+</div>
+
+### 🔥 Featured Projects
+- **[Real-Time Collaboration Platform](https://github.com/mayor-studio/collab-dashboard)** - A scalable dashboard for team collaboration
+- **[Game Script Manager](https://github.com/mayor-studio/lua-toolkit)** - Advanced Lua scripting toolkit for game developers
+- **[Automation Suite](https://github.com/mayor-studio/automation-tools)** - Collection of tools to streamline development workflows
+
+### 📈 Learning Journey
+Currently exploring:
+- Advanced cloud architecture patterns
+- Machine learning integration in web apps
+- Web3 and blockchain technologies
+- Advanced game engine development
 
 ---
 
-## 📊 Stats (dark/light aware)
+## 📊 GitHub Analytics
 
+### 🌟 Profile Overview
 <p align="center">
   <picture>
     <source
@@ -94,8 +142,23 @@ I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative te
   </picture>
 </p>
 
-### 📊 All Languages Used
-> ⚠️ **Note:** These stats are based on public repo file sizes and don't accurately represent my actual skill set or daily work. Most of my production code is in private repositories, and these numbers are heavily skewed by config files, dependencies, and other factors. See the **Tech Stack** section above for what I actually work with.
+### 📈 Activity Graph
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=react-dark&hide_border=true&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=ff6b6b"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=react-dark" alt="Activity Graph" width="100%" />
+  </picture>
+</p>
+
+### 💻 Programming Languages Distribution
+> ⚠️ **Note:** These statistics are based on public repository file sizes and may not accurately represent my actual skill set or daily work. Much of my production code resides in private repositories. For a comprehensive view of my expertise, please refer to the **Technical Arsenal** section above.
 
 <p align="center">
   <picture>
@@ -107,12 +170,12 @@ I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative te
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&hide_border=true&theme=default"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact" alt="All languages (not accurate - see note above)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact" alt="All languages distribution" />
   </picture>
 </p>
 
 <details>
-  <summary><b>🏆 GitHub Profile Trophies (click to expand)</b></summary>
+  <summary><b>🏆 GitHub Achievements & Badges (click to expand)</b></summary>
   <br />
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -123,7 +186,8 @@ I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative te
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://mayorstudio.xyz" target="_blank" aria-label="Website">
     <img src="https://img.icons8.com/fluency/64/domain.png" alt="Website" width="56" height="56" />
@@ -140,24 +204,55 @@ I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative te
   <a href="https://github.com/mayor-studio" target="_blank" aria-label="GitHub">
     <img src="https://img.icons8.com/fluency/64/github.png" alt="GitHub" width="56" height="56" />
   </a>
+  <a href="https://linkedin.com/in/mayor-studio" target="_blank" aria-label="LinkedIn">
+    <img src="https://img.icons8.com/fluency/64/linkedin.png" alt="LinkedIn" width="56" height="56" />
+  </a>
+  <a href="https://twitter.com/mayorstudio" target="_blank" aria-label="Twitter">
+    <img src="https://img.icons8.com/fluency/64/twitter.png" alt="Twitter" width="56" height="56" />
+  </a>
   <a href="mailto:contact@mayorstudio.xyz" target="_blank" aria-label="Email">
     <img src="https://img.icons8.com/fluency/64/gmail.png" alt="Email" width="56" height="56" />
   </a>
 </p>
 
+### 💬 Let's Collaborate!
+- 🚀 **Open to**: Full-time opportunities, freelance projects, collaborations
+- 🎯 **Interests**: Web3, Game Development, Cloud Architecture, AI/ML
+- 📧 **Reach out**: Whether you have a project idea or just want to chat about tech!
+
 ---
 
-> 💡 Interested in collaborating?  
-> Join **500+ developers** on **[Discord](https://discord.gg/mayor)** or explore **[projects on GitHub](https://github.com/mayor-studio)**.  
-> Contributions welcome — beginners to pros.
+## 🎯 Quick Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=mayor-studio&color=red&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/mayor-studio?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=yellow&label=Stars" alt="Total stars" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/github/followers/mayor-studio?style=for-the-badge&logo=github&color=blue&label=Followers" alt="Followers" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Contributions-50+-green?style=for-the-badge" alt="Contributions" />
+    </td>
+  </tr>
+</table>
+
+---
+
+> 💡 **Pro Tip**: Join **500+ developers** on our **[Discord Community](https://discord.gg/mayor)** for daily tech discussions, project showcases, and learning opportunities!
 
 <p align="center">
-  <i>© 2025 Mayor Studio • Crafted with ❤️ by 3mran</i>
+  <i>© 2025 Mayor Studio • Crafted with ❤️ and ☕ by 3mran</i>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayor-studio&color=red&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/stars/mayor-studio?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=yellow&label=Stars" alt="Total stars" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayor-studio/mayor-studio/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
