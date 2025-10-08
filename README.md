@@ -34,18 +34,6 @@ I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative te
 - 🎮 **Gaming**: Custom scripts and tools for enhanced gaming experiences
 - 📚 **Sharing**: Knowledge through open-source contributions and community building
 
-### 🧠 Core Competencies
-- **Languages**: JavaScript/TypeScript, Python, Lua, HTML/CSS, SQL
-- **Frameworks**: React, Vue, Express, FastAPI, Django, Flask
-- **Databases**: PostgreSQL, MongoDB, MySQL, Redis, Firebase
-- **Tools**: Docker, Git, CI/CD, Cloud Services
-
-### 🧩 My Philosophy
-- Clean architecture and maintainable code
-- Performance optimization at every level
-- User experience as a top priority
-- Continuous learning and adaptation
-
 ---
 
 ## 💻 Technical Arsenal
@@ -195,11 +183,6 @@ I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative te
 
 </div>
 
-### 💬 Let's Collaborate!
-- 🎯 **Open to**: Full-time opportunities, freelance projects, collaborations
-- 🎯 **Interests**: Web3, Game Development, Cloud Architecture, AI/ML
-- 📧 **Reach out**: Whether you have a project idea or just want to chat about tech!
-
 ---
 
 ## 🎯 Quick Stats
@@ -232,7 +215,3 @@ I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative te
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayor-studio/mayor-studio/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
