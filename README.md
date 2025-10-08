@@ -94,44 +94,67 @@ I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative te
 
 ---
 
-## 🚀 Current Projects & Focus
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=F70000&center=true&vCenter=true&width=820&height=60&lines=Building+scalable+web+applications;Creating+automation+tools;Developing+game+scripts;Contributing+to+open+source;Learning+new+technologies" alt="Current focus areas" />
-</div>
-
-### 🔥 Featured Projects
-- **[Real-Time Collaboration Platform](https://github.com/mayor-studio/collab-dashboard)** - A scalable dashboard for team collaboration
-- **[Game Script Manager](https://github.com/mayor-studio/lua-toolkit)** - Advanced Lua scripting toolkit for game developers
-- **[Automation Suite](https://github.com/mayor-studio/automation-tools)** - Collection of tools to streamline development workflows
-
-### 📈 Learning Journey
-Currently exploring:
-- Advanced cloud architecture patterns
-- Machine learning integration in web apps
-- Web3 and blockchain technologies
-- Advanced game engine development
-
----
-
 ## 📊 GitHub Analytics
 
-### 🌟 Profile Overview
+### 🌟 Enhanced Profile Overview
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&line_height=26&title_color=ff6b6b&icon_color=ff6b6b"
+      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&line_height=26&title_color=ff6b6b&icon_color=ff6b6b&bg_color=0D1117&text_color=ffffff"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default&line_height=26"
+      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default&line_height=26&bg_color=ffffff"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&hide_border=true" alt="GitHub stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&hide_border=true&bg_color=0D1117&text_color=ffffff" alt="GitHub stats" width="49%" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=mayor-studio&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=ff6b6b&fire=ff6b6b"
+      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide Border=true&theme=radical&line_height=26&title_color=ff6b6b&icon_color=ff6b6b&bg_color=0D1117&text_color=ffffff&custom_title=Productivity%20Stats"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default&line_height=26&bg_color=ffffff&custom_title=Productivity%20Stats"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&hide_border=true&bg_color=0D1117&text_color=ffffff&custom_title=Productivity%20Stats" alt="Productivity stats" width="49%" />
+  </picture>
+</p>
+
+### 📈 Contribution Activity
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=react-dark&hide_border=true&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&area=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=default&hide_border=true&area=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=react-dark&area=true" alt="Activity Graph" width="100%" />
+  </picture>
+</p>
+
+### 💻 Programming Languages Distribution
+> ⚠️ **Note:** These statistics are based on public repository file sizes and may not accurately represent my actual skill set or daily work. Much of my production code resides in private repositories. For a comprehensive view of my expertise, please refer to the **Technical Arsenal** section above.
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=donut-vertical&hide_border=true&theme=radical&title_color=ff6b6b&text_color=ffffff&bg_color=0D1117"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=donut-vertical&hide_border=true&theme=default&bg_color=ffffff"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=donut-vertical" alt="All languages distribution" width="49%" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=mayor-studio&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=ff6b6b&fire=ff6b6b&background=0D1117&stroke=ffffff"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -142,45 +165,16 @@ Currently exploring:
   </picture>
 </p>
 
-### 📈 Activity Graph
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=react-dark&hide_border=true&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=ff6b6b"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mayor-studio&theme=react-dark" alt="Activity Graph" width="100%" />
-  </picture>
-</p>
-
-### 💻 Programming Languages Distribution
-> ⚠️ **Note:** These statistics are based on public repository file sizes and may not accurately represent my actual skill set or daily work. Much of my production code resides in private repositories. For a comprehensive view of my expertise, please refer to the **Technical Arsenal** section above.
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&hide_border=true&theme=radical&title_color=ff6b6b&text_color=ffffff"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&hide_border=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact" alt="All languages distribution" />
-  </picture>
-</p>
-
+### 🏆 GitHub Achievements & Recognition
 <details>
-  <summary><b>🏆 GitHub Achievements & Badges (click to expand)</b></summary>
+  <summary><b>Click to view comprehensive GitHub achievements</b></summary>
   <br />
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=mayor-studio&theme=radical&column=8&margin-w=15&margin-h=15&no-frame=true" alt="GitHub trophies" />
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=mayor-studio&theme=radical&column=8&margin-w=15&margin-h=15&no-frame=true&background=0D1117&title=000000" alt="GitHub trophies" width="100%" />
+  </p>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mayor-studio&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=ff6b6b&text_color=ffffff" alt="Wakatime stats" width="100%" />
   </p>
 </details>
 
@@ -188,35 +182,21 @@ Currently exploring:
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://mayorstudio.xyz" target="_blank" aria-label="Website">
-    <img src="https://img.icons8.com/fluency/64/domain.png" alt="Website" width="56" height="56" />
-  </a>
-  <a href="https://panel.mayorstudio.host" target="_blank" aria-label="Control Panel">
-    <img src="https://img.icons8.com/fluency/64/control-panel.png" alt="Control Panel" width="56" height="56" />
-  </a>
-  <a href="https://www.youtube.com/@mayor.studio" target="_blank" aria-label="YouTube">
-    <img src="https://img.icons8.com/fluency/64/youtube-play.png" alt="YouTube" width="56" height="56" />
-  </a>
-  <a href="https://discord.gg/mayor" target="_blank" aria-label="Discord">
-    <img src="https://img.icons8.com/fluency/64/discord-logo.png" alt="Discord" width="56" height="56" />
-  </a>
-  <a href="https://github.com/mayor-studio" target="_blank" aria-label="GitHub">
-    <img src="https://img.icons8.com/fluency/64/github.png" alt="GitHub" width="56" height="56" />
-  </a>
-  <a href="https://linkedin.com/in/mayor-studio" target="_blank" aria-label="LinkedIn">
-    <img src="https://img.icons8.com/fluency/64/linkedin.png" alt="LinkedIn" width="56" height="56" />
-  </a>
-  <a href="https://twitter.com/mayorstudio" target="_blank" aria-label="Twitter">
-    <img src="https://img.icons8.com/fluency/64/twitter.png" alt="Twitter" width="56" height="56" />
-  </a>
-  <a href="mailto:contact@mayorstudio.xyz" target="_blank" aria-label="Email">
-    <img src="https://img.icons8.com/fluency/64/gmail.png" alt="Email" width="56" height="56" />
-  </a>
-</p>
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-mayorstudio.xyz-ff6b6b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mayorstudio.xyz)
+[![Control Panel](https://img.shields.io/badge/Control_Panel-Access-5865F2?style=for-the-badge&logo=server&logoColor=white)](https://panel.mayorstudio.host)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mayor.studio)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mayor)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayor-studio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayor-studio)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mayorstudio)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mayorstudio.xyz)
+
+</div>
 
 ### 💬 Let's Collaborate!
-- 🚀 **Open to**: Full-time opportunities, freelance projects, collaborations
+- 🎯 **Open to**: Full-time opportunities, freelance projects, collaborations
 - 🎯 **Interests**: Web3, Game Development, Cloud Architecture, AI/ML
 - 📧 **Reach out**: Whether you have a project idea or just want to chat about tech!
 
