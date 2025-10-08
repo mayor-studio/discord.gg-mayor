@@ -94,20 +94,20 @@ I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative te
   </picture>
 </p>
 
-### 📊 Most Used Languages
+### 📊 All Languages Used
 > ⚠️ **Note:** These stats are based on public repo file sizes and don't accurately represent my actual skill set or daily work. Most of my production code is in private repositories, and these numbers are heavily skewed by config files, dependencies, and other factors. See the **Tech Stack** section above for what I actually work with.
 
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&langs_count=8&hide_border=true&theme=radical&title_color=ff6b6b&text_color=ffffff"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&hide_border=true&theme=radical&title_color=ff6b6b&text_color=ffffff"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&langs_count=8&hide_border=true&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&hide_border=true&theme=default"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact" alt="Top languages (not accurate - see note above)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact" alt="All languages (not accurate - see note above)" />
   </picture>
 </p>
 
