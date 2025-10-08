@@ -1,9 +1,8 @@
-
 <p align="center">
   <img src="https://i.ibb.co/S4Rrx0MH/Picsart-25-08-29-01-29-24-403-jpg.jpg" alt="3mran — Mayor Studio Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I’m 3mran 👋</h1>
+<h1 align="center">Hi, I'm 3mran 👋</h1>
 <h3 align="center">Full‑Stack Developer • Creator of <a href="https://mayorstudio.xyz">Mayor Studio</a></h3>
 <p align="center"><em>I build high‑performance web apps, automation tools, and game scripting systems.</em></p>
 
@@ -22,7 +21,7 @@
 ---
 
 ## 🌟 About
-I’m the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative tech lab focused on real‑time web systems, automation, and developer tooling.
+I'm the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative tech lab focused on real‑time web systems, automation, and developer tooling.
 
 - 🔭 Building: collaborative real‑time dashboards, custom game backends, Lua tooling
 - 🧠 Expert in: JavaScript/TypeScript, Node.js, Python, Lua, React/Vue
@@ -61,7 +60,7 @@ I’m the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative 
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I'm Working On
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=F70000&center=true&vCenter=true&width=820&height=60&lines=Building+scalable+web+applications;Creating+automation+tools;Developing+game+scripts;Contributing+to+open+source;Learning+new+technologies" alt="Current focus areas" />
 </p>
@@ -95,6 +94,9 @@ I’m the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative 
   </picture>
 </p>
 
+### 📊 Most Used Languages
+> ⚠️ **Note:** These stats are based on public repo file sizes and don't accurately represent my actual skill set or daily work. Most of my production code is in private repositories, and these numbers are heavily skewed by config files, dependencies, and other factors. See the **Tech Stack** section above for what I actually work with.
+
 <p align="center">
   <picture>
     <source
@@ -105,7 +107,7 @@ I’m the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&langs_count=8&hide_border=true&theme=default"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact" alt="Top languages (not accurate - see note above)" />
   </picture>
 </p>
 
