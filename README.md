@@ -22,39 +22,39 @@
 
 ## 🌟 About Me
 
-I'm **3mran**, founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative tech lab building **high-performance web apps**, **game automation tools**, and **developer-first platforms**.
+I'm **3mran**, the founder of **[Mayor Studio](https://mayorstudio.xyz)** — a creative tech lab building innovative web applications, automation tools, game scripts, and developer-focused platforms.
 
-- 🔭 Building real-time applications with WebSocket, Node.js, and React
-- 🌱 Expert in **JavaScript/TypeScript**, **Node.js**, **Python**, and **Lua**
-- 💡 Obsessed with **clean architecture**, **performance optimization**, and **UX-driven development**
-- 📫 Let’s connect: **[Discord](https://discord.gg/mayor)** or **[Control Panel](https://panel.mayorstudio.host)**
-- ⚡ Fun fact: I automated my coffee machine. ☕ It brews when I push code to `main`.
+- 🔭 Building **real-time web apps**, **custom game backends**, and **developer tooling**
+- 🌱 Deeply experienced in **JavaScript/TypeScript**, **Node.js**, **Python**, and **Lua**
+- 💡 Passionate about **clean architecture**, **performance**, and **user experience**
+- 📫 Reach me via **Discord** or through my **[control panel](https://panel.mayorstudio.host)**
+- ⚡ Fun fact: I automate everything — even my coffee machine! ☕
 
 ---
 
 ## 💻 Tech Stack
 
-### 🌐 Frontend & Web
+### 🌐 Frontend & Web Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind,bootstrap" alt="Frontend Technologies"/>
 </p>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend & Server Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,django" alt="Backend Technologies"/>
 </p>
 
-### 🎮 Game Dev & Scripting
+### 🎮 Game Development & Scripting
 <p align="left">
   <img src="https://skillicons.dev/icons?i=lua,unity,godot" alt="Game Development"/>
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases & Cloud Services
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase" alt="Databases"/>
 </p>
 
-### 🛠️ DevOps & Tools
+### 🛠️ DevOps & Development Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,github,linux,vscode,nginx,vercel,cloudflare" alt="DevOps Tools"/>
 </p>
@@ -63,22 +63,22 @@ I'm **3mran**, founder of **[Mayor Studio](https://mayorstudio.xyz)** — a crea
 
 ## 🏅 GitHub Achievements
 
-### 🏆 Profile Trophy Collection
+### 🏆 GitHub Profile Trophy Collection
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mayor-studio&theme=radical&column=8&margin-w=15&margin-h=15" alt="GitHub Trophy Awards"/>
   </a>
 </p>
 
-### 📊 Activity & Stats
+### 📊 GitHub Statistics & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayor-studio&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&line_height=24" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayor-studio&theme=radical&hide_border=true&line_height=24" width="48%"/>
 </p>
 
-### 📈 Top Languages
+### 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-studio&layout=compact&theme=radical&langs_count=10&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -111,14 +111,14 @@ I'm **3mran**, founder of **[Mayor Studio](https://mayorstudio.xyz)** — a crea
 ## 🚀 What I'm Working On
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=70&lines=Building+scalable+web+apps;Creating+automation+tools;Developing+game+scripts;Contributing+to+open+source;Learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Creating+automation+tools;Developing+game+scripts;Contributing+to+open+source;Learning+new+technologies" alt="Typing SVG" />
 </p>
 
 ---
 
-> 💡 **Want to collaborate?**  
-> Join **500+ developers** in our **[Discord community](https://discord.gg/mayor)** or explore open-source projects on **[GitHub](https://github.com/mayor-studio)**.  
-> All Mayor Studio tools are **open for contributions** — whether you’re a beginner or a veteran, your code matters. 🎯
+> 💡 **Interested in collaboration?**  
+> Join our **[Discord community](https://discord.gg/mayor)** with 500+ developers or explore my work on **[GitHub](https://github.com/mayor-studio)**.  
+> All Mayor Studio projects are built with passion and open to community contributions! 🎯
 
 <p align="center">
   <i>© 2025 Mayor Studio • Crafted with ❤️ by 3mran</i>
